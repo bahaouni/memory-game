@@ -1,9 +1,7 @@
 # memory-game
 Simple memory game using JavaScript 
 
-<a href="https://www.youtube.com/watch?v=8JDiaYIgqTk">
-    Watch tutorial
-</a>
+
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=8JDiaYIgqTk">
@@ -18,8 +16,6 @@ Simple memory game using JavaScript
 
 ## Follow me
  
-  <a href="https://www.linkedin.com/mwlite/in/moamahfouz">
-            <b> Linkedin »</b>
-        </a>
+ 
    
 
